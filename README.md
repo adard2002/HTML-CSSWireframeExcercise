@@ -9,6 +9,7 @@ Today, you will practice building out a professional-style wireframe document fr
 ### Links and Resources
 * [submission PR](http://xyz.com)
 * Any Links you used as reference
+* Making sure I'm using the nav tags right: ![https://www.w3schools.com/tags/tag_nav.asp](https://www.w3schools.com/tags/tag_nav.asp) 
 
 ### Reflections and Comments
 * Consider including the answers to your daily journal and submission questions here
