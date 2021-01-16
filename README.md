@@ -25,7 +25,8 @@ With this wireframe in place, you can now present it to the designer and/or clie
 * [submission PR](http://xyz.com)
 * Any Links you used as reference
 * Making sure I'm using the nav tags right: ![https://www.w3schools.com/tags/tag_nav.asp](https://www.w3schools.com/tags/tag_nav.asp) 
-
+* centering images ![https://www.w3schools.com/howto/howto_css_image_center.asp](https://www.w3schools.com/howto/howto_css_image_center.asp) 
+* making scroll overflow ![https://www.w3schools.com/cssref/tryit.asp?filename=trycss_overflow](https://www.w3schools.com/cssref/tryit.asp?filename=trycss_overflow)
 ### Reflections and Comments
 * Consider including the answers to your daily journal and submission questions here
 * This is also a good place to reflect on the tools and resources used and learned
